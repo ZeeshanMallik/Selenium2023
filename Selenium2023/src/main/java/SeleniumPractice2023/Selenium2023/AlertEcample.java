@@ -30,6 +30,7 @@ public class AlertEcample {
 		
 		driver.switchTo().alert().dismiss();
 		System.out.println("Execution completed");
+		System.out.println("Running from github demo server");
 	}
 
 }
